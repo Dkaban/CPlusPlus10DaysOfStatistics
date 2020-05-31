@@ -50,7 +50,6 @@ int calculateMode(int n, vector<int> arr)
 }
 
 int main() {
-    /* Enter your code here. Read input from STDIN. Print output to STDOUT */   
     int n;
     vector<int> arr;
     cin >> n;
