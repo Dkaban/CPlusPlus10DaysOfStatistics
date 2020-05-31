@@ -47,17 +47,6 @@ int calculateMode(int n, vector<int> arr)
         }
     }
     return largestNum;
-    /*
-    int temp = arr[0];
-    for(int i=1; i<n;i++)
-    {
-        if(temp>arr[i])
-        {
-            temp=arr[i];
-        }
-    }
-    return temp;
-    */
 }
 
 int main() {
