@@ -4,6 +4,8 @@
 // If your array contains more than one modal value, choose the numerically smallest one.
 // Note: Other than the modal value (which will always be an integer), your answers should be in decimal form, 
 // rounded to a scale of  decimal place (i.e., ,  format).
+// Solution Created By: Dustin Kaban
+// Date: May 31st, 2020
 // ***************************
 
 #include <cmath>
