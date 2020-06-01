@@ -3,6 +3,8 @@
 // Given an array, X , of N integers and an array, W , representing the respective weights of X's elements, 
 // calculate and print the weighted mean of X's elements. 
 // Your answer should be rounded to a scale of 1 decimal place (i.e., 12.3 format).
+// Solution Created By: Dustin Kaban
+// Date: May 31st, 2020
 // ***************************
 
 #include <cmath>
