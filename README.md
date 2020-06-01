@@ -6,4 +6,4 @@ Solved Code Problems for the 10 Days of Statistics Coding Challenge in C++ on Ha
 
 - Mean, Median, and Mode Calculator
 - Weighted Mean Calculator
-**(More Coming Soon, Updated May 31st, 2020)**
+- **(More Coming Soon, Updated May 31st, 2020)**
