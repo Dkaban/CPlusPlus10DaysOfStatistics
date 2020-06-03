@@ -1,5 +1,5 @@
 # Statistics
-Solved Code Problems for the 10 Days of Statistics Coding Challenge in C++ on HackerRank
+Solved Code Problems for the Statistics Coding Challenge in C++ on HackerRank
 Challenges found at https://www.hackerrank.com/domains/tutorials/10-days-of-statistics
 ## Language: C++
 
