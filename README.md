@@ -7,4 +7,5 @@ Challenges found at https://www.hackerrank.com/domains/tutorials/10-days-of-stat
 
 - Mean, Median, and Mode Calculator
 - Weighted Mean Calculator
-- **(More Coming Soon, Updated May 31st, 2020)**
+- Standard Deviation Calculator
+- **(More Coming Soon, Updated June 4th, 2020)**
